@@ -23,12 +23,8 @@ Required Python libraries (boto3, dotenv, requests)
 Setup
 Clone the repository:
 
-bash
-
-git clone https://github.com/yourusername/PockemonDB.git
+git clone https://github.com/yourusername/PockemonDB.gi
 Navigate into the project directory:
-
-bash
 
 cd PockemonDB
 Install the required dependencies:
